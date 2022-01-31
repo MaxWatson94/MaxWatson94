@@ -10,6 +10,5 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 ### Some Github Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=MaxWatson94)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxWatson94)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MaxWatson94)  
+
