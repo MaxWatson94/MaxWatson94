@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Max ![Profile views](https://gpvc.arturio.dev/MaxWatson94)  
-#### My name is Max. I am a web developer from St. Petersburg
+#### I am a web developer from St. Petersburg
 I am web development. The main focus of my work is on the study of web standards. In my spare time, I study GameDev.
 
 Skills: VUE JS / REACT / JS / HTML / CSS
