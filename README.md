@@ -1,3 +1,2 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=MaxWatson94)](https://github.com/ryo-ma/github-profile-trophy&column=-1)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=MaxWatson94)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
 
