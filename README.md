@@ -1,5 +1,3 @@
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=MaxWatson94.MaxWatson94&color=00cf00)
-
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 I am a web developer
 - 💼 Work in [Emlid](https://emlid.com/)
