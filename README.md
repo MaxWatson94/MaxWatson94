@@ -1,2 +1,1 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=MaxWatson94)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
-
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=MaxWatson94.MaxWatson94&color=00cf00)
