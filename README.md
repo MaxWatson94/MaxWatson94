@@ -2,7 +2,6 @@
 - 🖥 I am a web developer
 - 💼 Work in [Emlid](https://emlid.com/)
 - 🎓 HTML/CSS(scss),JS(JQuery), PHP, Python 
-- 🌐 You can see all my open projects in my repositories [here](https://github.com/MaxWatson94)
 
 ## 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
 	- Go skydiving
