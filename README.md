@@ -26,14 +26,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaxWatson94&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxWatson94&layout=compact&theme=radical" alt="Top Languages" height="160" />
-</p>
-
----
-
 ## 📫 How to reach me
 You can contact me via the email in my GitHub profile or follow me on socials:  
 
