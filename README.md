@@ -6,7 +6,7 @@
 
 ## :book: About Me
 - 🖥 Web Developer passionate about building functional and beautiful products  
-- 💼 Currently working at [Emlid](https://emlid.com/)  
+- 💼 Looking for a job 👀
 - 🎓 Skilled in: **HTML / CSS (SCSS)**, **JavaScript (jQuery)**, **PHP**, **Python**  
 
 ---
