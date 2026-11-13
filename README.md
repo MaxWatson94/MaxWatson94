@@ -1,37 +1,30 @@
-# 👋 Hi, I'm Max Watson  
+# Привет, я Максим!
 
-### 💻 Web Developer | 🚀 Tech Enthusiast | 🎯 Lifelong Learner  
+**Python Backend Developer** · API · интеграции · автоматизация
 
----
+Занимаюсь Python-разработкой с 2019 года. Пишу backend для веб-приложений, автоматизирую рутинные задачи и связываю сервисы через API. Люблю разбираться в непростой логике и доводить свои идеи до рабочего состояния.
 
-## :book: About Me
-- 🖥 Web Developer passionate about building functional and beautiful products  
-- 💼 Looking for a job 👀
-- 🎓 Skilled in: **HTML / CSS (SCSS)**, **JavaScript (jQuery)**, **PHP**, **Python**  
+Мне ближе серверная часть, но при необходимости берусь и за интерфейс.
 
----
+## Мой стек
 
-## ⚡ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,jquery,php,python,git,github,vscode" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,docker,git,githubactions&amp;perline=8" alt="Python, FastAPI, Django, PostgreSQL, Redis, Docker, Git, GitHub Actions" />
 </p>
 
----
+- **Backend:** Python, FastAPI, Django, REST API, PostgreSQL / PostGIS, Redis.
+- **Автоматизация и данные:** asyncio, multiprocessing, requests, BeautifulSoup, Scrapy, Playwright, Pillow, OpenCV, pandas.
+- **Инструменты:** Docker, Git, GitHub Actions, pytest, S3 / boto3.
+- **Также работал с:** PHP, WordPress, TypeScript, React, Next.js.
 
-## 🤞 One day I hope to...
-- 🪂 Go skydiving  
-- 🏔 Conquer Everest  
-- ✅ Complete all tasks in one sprint  
-- 🏡 Finish renovations in my apartment  
+## Что делаю для себя
 
----
+**[QuizHunter](https://quiz-hunter.ru/)** — мой агрегатор квизов и барных викторин. Занимаюсь API, сбором и обработкой расписаний, очередями задач и уведомлениями. Здесь можно проверять идеи сразу на живом проекте.
 
-## 📫 How to reach me
-You can contact me via the email in my GitHub profile or follow me on socials:  
+## Немного личного
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="40em" align="center" alt="Telegram" title="Telegram"/>](https://t.me/MaxWatson)
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" height="40em" align="center" alt="Instagram" title="Instagram"/>](https://instagram.com/MaxWatsonn)
+Вне кода хочу однажды прыгнуть с парашютом и подняться на Эверест.
 
----
+## Связаться со мной
 
-✨ *“Code is like humor. When you have to explain it, it’s bad.”* ✨
+[Telegram](https://t.me/max_matin) · [Email](mailto:max.watson@yandex.ru)
